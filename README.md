@@ -99,3 +99,13 @@ The repository is organized into two main project folders:
 
 -   `corridor-flow-pilot-main/`: Contains the React frontend application.
 -   `Emergency_Traffic_Simulation/`: Contains the Python backend and SUMO simulation files.
+
+## Team Members
+
+- Jishnu V
+- Syed Abdulla
+- Nischay B
+- Sumanth L
+
+> This project was developed collaboratively by the above team members.
+
